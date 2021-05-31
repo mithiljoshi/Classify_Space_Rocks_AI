@@ -1,0 +1,7 @@
+pandas
+jupyter
+seaborn
+scikit-learn 
+keras 
+pytorch 
+pillow
